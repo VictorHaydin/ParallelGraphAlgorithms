@@ -10,3 +10,13 @@
 *.lai
 *.la
 *.a
+
+# visual studio stuff
+*.suo
+*.sdf
+*.opensdf
+*.user
+[Bb]in
+[Dd]ebug*/
+obj/
+[Rr]elease*/
